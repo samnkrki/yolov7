@@ -1,0 +1,8 @@
+# path: /Users/saminator/Documents/datasets/plates
+train: /Users/saminator/Documents/datasets/plates/train.txt  # train images (relative to 'path') 128 images
+val: /Users/saminator/Documents/datasets/plates/test.txt
+# val: /Users/saminator/Documents/datasets/plates/test.txt  # val images (relative to 'path') 128 images
+# test: imageSets/Main/test.txt # test images (optional)
+# Classes
+nc: 1  # number of classes
+names: ['plate']  # class names
